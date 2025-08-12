@@ -17,7 +17,7 @@
 
 您可以通过下方的 Hugging Face Space 链接在线体验本应用，无需在本地安装任何环境。
 
-**Hugging Face Space:** [**https://huggingface.co/spaces/l73jiang/Machine-Voice-Detector2**](https://huggingface.co/spaces/l73jiang/Machine-Voice-Detector2)
+**Hugging Face Space:** [**https://huggingface.co/spaces/l73jiang/Machine-Voice-Detector2**](https://huggingface.co/spaces/l73jiang/speechbrain_Voiceprint_Recognition)
 
 ![应用截图](https://raw.githubusercontent.com/your-username/your-repo/main/screenshot-zh.png)
 *<p align="center">（请将上方图片链接替换为您自己的项目截图）</p>*
