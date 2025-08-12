@@ -1,13 +1,3 @@
-好的，这是为您准备好的中文版 README.md 文件。
-
-同样，您可以将下面代码块中的所有文本复制，然后粘贴到一个新文件中，并将其命名为 README.zh.md 或 README.md 即可。
-
-code
-Markdown
-download
-content_copy
-expand_less
-
 # 声纹比对工具 (Voice Similarity Detector)
 
 [![zh](https://img.shields.io/badge/language-中文-blue.svg)](README.zh.md)
