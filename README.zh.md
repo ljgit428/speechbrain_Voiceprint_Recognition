@@ -19,9 +19,6 @@
 
 **Hugging Face Space:** [**https://huggingface.co/spaces/l73jiang/Machine-Voice-Detector2**](https://huggingface.co/spaces/l73jiang/speechbrain_Voiceprint_Recognition)
 
-![应用截图](https://raw.githubusercontent.com/your-username/your-repo/main/screenshot-zh.png)
-*<p align="center">（请将上方图片链接替换为您自己的项目截图）</p>*
-
 ---
 
 ## ✨ 功能特性
