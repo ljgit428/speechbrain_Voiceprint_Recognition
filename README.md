@@ -19,9 +19,6 @@ You can try the application live on Hugging Face Spaces without any local instal
 
 **Hugging Face Space:** [**https://huggingface.co/spaces/l73jiang/Machine-Voice-Detector2**](https://huggingface.co/spaces/l73jiang/speechbrain_Voiceprint_Recognition)
 
-![Application Screenshot](<img width="1920" height="1078" alt="Snipaste_2025-08-12_00-39-32" src="https://github.com/user-attachments/assets/cf55bb34-7e2b-4149-b956-da1baa2c475b" />)
-*<p align="center">
-
 ---
 
 ## ✨ Features
