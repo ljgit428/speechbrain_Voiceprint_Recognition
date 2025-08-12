@@ -17,7 +17,7 @@ This is a voice similarity comparison tool built with Gradio and SpeechBrain. It
 
 You can try the application live on Hugging Face Spaces without any local installation.
 
-**Hugging Face Space:** [**https://huggingface.co/spaces/l73jiang/Machine-Voice-Detector2**](https://huggingface.co/spaces/l73jiang/Machine-Voice-Detector2)
+**Hugging Face Space:** [**https://huggingface.co/spaces/l73jiang/Machine-Voice-Detector2**](https://huggingface.co/spaces/l73jiang/speechbrain_Voiceprint_Recognition)
 
 ![Application Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/screenshot.png)
 *<p align="center">(Please replace the image link above with a screenshot of your own project.)</p>*
